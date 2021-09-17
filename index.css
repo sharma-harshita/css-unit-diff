@@ -1,0 +1,38 @@
+.class1{
+    width: 50%;
+    border:2px solid red;
+    background-color: yellow;
+}
+
+.class2{
+    width: 400px;
+    background-color: yellow;
+    border:2px solid red;
+}
+.parent{
+    width: 150px;
+    border:2px solid red;
+    font-size: 50px;
+}
+.class3{
+    height: 15vh;
+    border:2px solid red;
+    background-color: yellow;
+}
+.class4{
+    width: 25vw;
+    border:2px solid red;
+    background-color: yellow;
+}
+.class5{
+    font-size: 1em;
+}
+.class6{
+    font-size: 2em;
+}
+.class7{
+    font-size: 1rem;
+}
+.class8{
+    font-size: 2rem;
+}
